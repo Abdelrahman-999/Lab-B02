@@ -1,0 +1,32 @@
+ body{
+     background-color: #00AA88;
+     color: white;
+     flex-wrap: wrap;
+     text-align: center;
+
+}
+ header{
+     border-style: outset;
+     color: black;
+     text-align: center;
+
+
+ }
+    header img{
+        height: 100px;
+        width : 150px;
+
+}
+    section
+    {
+        border-style: outset;
+        border-color: #AA0000;
+    }
+
+    footer{
+        background-color: darkgreen;
+        height: 40px;
+        align-items: center;
+
+    }
+
