@@ -12,15 +12,25 @@
 
 
  }
-    header img{
-        height: 100px;
+    img{
+        height: 150px;
         width : 150px;
+        justify-content: flex-start;
+         align-items: center;
 
 }
+    header img{
+        height: 400px;
+        width: 300px;
+       
+
+    }
     section
     {
         border-style: outset;
         border-color: #AA0000;
+        gap: 50px;
+
     }
 
     footer{
@@ -28,5 +38,21 @@
         height: 40px;
         align-items: center;
 
+
+    }
+    main h1{
+        color: black;
+
+    }
+    header h1{
+        color: yellow;
+
+    }
+    p{
+        color: orangered;
+        text-decoration-color: darkgreen;
+        border-style: wave;
+        border-width: 30px;
+        border-color: #AA0000;
     }
 
